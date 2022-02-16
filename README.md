@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @balmeetkaur
-- 👀 I’m interested in Data science,Data analytics and data visualization
-- 🌱 I’m currently learning python Core
+- 👀 I’m interested in Data analytics , Data visualization and Data Science
+- 🌱 I’m currently learning python Core and advance python concepts
 - 💞️ I’m looking to collaborate on Python
 - 📫 How to reach me balmeetk1990@gmail.com
 
