@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Machine Learning Based problems**
 
-- 🌱 I’m currently learning **SQL and tableau**
+- 🌱 I’m currently learning ****
 
 - 👯 I’m looking to collaborate on **Python, Data Analytics and Data science Based projects**
 
